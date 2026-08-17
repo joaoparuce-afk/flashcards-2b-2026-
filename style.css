@@ -76,4 +76,8 @@ font:18px;
     border-radius: 12px;
     box-shadow: 6 6px  rgba(66, 119, 134, 0.15);/*colocar uma sombra ao redor do flashcard*/
     backface-visibility: hidden;
+
     }
+    .cartao-verso{ 
+        transform: rotateY(180deg);/*rotaciona o cartão 180 graus no eixo Y*/ }
+    
