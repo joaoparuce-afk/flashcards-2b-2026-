@@ -58,6 +58,7 @@ transform: rotateY(180deg); /*rotaciona o cartão 180 graus no eixo Y*/
 .cartao{
 width: 260px;
 height: 200px;
+margin: 10px;
 }
 .cartao-imagem{
 width: 100%;
